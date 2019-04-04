@@ -1,0 +1,5 @@
+#our project
+#for this project
+
+for i in range(10)
+print(i)
